@@ -42,17 +42,16 @@ The data was prepared and modeled in Power BI for analysis and visualization.
 
 ---
 
-## 🛠️ Tools & Technologies
+## ⭐ Project Highlights
 
-* **Power BI**
-* **DAX**
-* **Power Query**
-* **Data Modeling**
-* **Microsoft Excel / CSV**
-* **GitHub**
+- Built an interactive **Power BI e-commerce analytics dashboard** using the Olist dataset.
+- Created a structured data model connecting orders, customers, products, sellers, payments, and related data.
+- Developed DAX measures for key business KPIs including **Total Orders, Total Revenue, and Average Order Value (AOV)**.
+- Analyzed **order trends, revenue trends, delivery performance, customer behavior, and product performance**.
+- Designed four dashboard pages covering **Executive Overview, Order & Delivery Analysis, Customer & Product Analysis, and Business Insights & Performance**.
+- Used interactive filters and visualizations to support business-focused analysis.
 
 ---
-
 ## 📌 Key Performance Indicators
 
 The dashboard includes key metrics such as:
