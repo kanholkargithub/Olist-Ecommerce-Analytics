@@ -91,11 +91,11 @@ The Power BI dashboard provides an interactive view of e-commerce performance ac
 
 ### 3. Customer and Product Analysis
 
-![Customer and Product Analysis](Dashboard/Customer and Product Analysis.png)
+![Customer and Product Analysis](Dashboard/CustomerandProductAnalysis.png)
 
 ### 4. Business Insights & Performance
 
-![Business Insights and Performance](Dashboard/Business Insight and Analysis.png)
+![Business Insights and Performance](Dashboard/OrderandDeliverAnalysis.png)
 ---
 
 ## 💡 Key Insights
