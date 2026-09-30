@@ -98,18 +98,38 @@ The Power BI dashboard provides an interactive view of e-commerce performance ac
 ![Business Insights and Performance](Dashboard/OrderandDeliverAnalysis.png)
 ---
 
-## 💡 Key Insights
+## 💡 Key Business Insights
 
-The dashboard is designed to identify:
+The Power BI dashboard highlights several important patterns in the Olist e-commerce business:
 
-* Trends in order volume over time
-* Revenue patterns across different periods
-* Differences between order statuses
-* Overall sales performance
-* Relationships between product and order-related metrics
+### Sales Performance
 
-Specific findings are based on the final Power BI analysis.
+- The dataset contains approximately **99K orders** and **96K customers**.
+- Total revenue analyzed is approximately **13.59M**.
+- Average Order Value (AOV) is approximately **137.75**.
 
+### Order Performance
+
+- The majority of orders are in the **delivered** status.
+- Monthly order volume shows a clear increase through the main active period of the dataset, followed by a decline near the end of the available period.
+- Product categories show differences in order volume, helping identify categories with higher customer demand.
+
+### Customer Analysis
+
+- Approximately **3K customers** are classified as repeat customers.
+- Repeat customers represent approximately **3.12%** of the customer base.
+- This provides an opportunity to further investigate customer retention and repeat-purchase behavior.
+
+### Delivery Performance
+
+- Average delivery time is approximately **12.5 days**.
+- The dashboard shows an **91.88% on-time delivery rate** and an **8.11% late delivery rate**.
+- Delivery performance varies across customer states, indicating differences in regional delivery outcomes.
+
+### Customer Experience
+
+- The overall average review score is approximately **4.09/5**.
+- The review score distribution provides insight into overall customer satisfaction and the relationship between service performance and customer feedback.
 ---
 
 ## 🔍 Analysis Process
